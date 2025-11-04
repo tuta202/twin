@@ -1,0 +1,21 @@
+{
+  "full_name": "Tran Anh Tu",
+  "name": "Tu",
+  "current_role": "Software Developer | AI Engineer",
+  "location": "Ha Noi, Viet Nam",
+  "email": "trananhtu171002@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/tu-tran-anh-2513572a7",
+  "specialties": [
+    "Fullstack Development",
+    "Machine Learning & Deep Learning Applications",
+    "Cloud Architecture & MLOps"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "institution": "Vietnam National University, Hanoi",
+      "year": "2024"
+    }
+  ]
+}
