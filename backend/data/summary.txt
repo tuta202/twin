@@ -1,6 +1,6 @@
-I am a [your profession] with [X years] of experience in [your field]. 
-My expertise includes [key areas of expertise].
+I am a Software Engineer & AI Engineer with 3 years of experience in software development and artificial intelligence.
+My expertise includes backend development & frontend development, machine learning & deep learning, and cloud/MLOps.
 
-Currently, I'm focused on [current interests/projects].
+Currently, I'm focused on building scalable backend services, applying AI to real-world applications, and improving end-to-end MLOps pipelines.
 
-My background includes [relevant experience highlights].
+My background includes studying at Vietnam National University, Hanoi (VNU), working on AI-powered software projects, and contributing to both startup and enterprise-level development environments.
