@@ -1,8 +1,8 @@
 project_name             = "twin"
-environment              = "dev"
+environment              = "prod"
 bedrock_model_id         = "arn:aws:bedrock:ap-southeast-1:047719644569:inference-profile/apac.amazon.nova-micro-v1:0"
 lambda_timeout           = 60
-api_throttle_burst_limit = 10
-api_throttle_rate_limit  = 5
+api_throttle_burst_limit = 20
+api_throttle_rate_limit  = 10
 use_custom_domain        = false
 root_domain              = ""
